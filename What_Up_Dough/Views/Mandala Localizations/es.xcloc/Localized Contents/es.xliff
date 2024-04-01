@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Mandala/Localizable.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5229m"/>
+    </header>
+    <body>
+      <trans-unit id="Additional Details" xml:space="preserve">
+        <source>Additional Details</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Anger" xml:space="preserve">
+        <source>Anger</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Anticipation" xml:space="preserve">
+        <source>Anticipation</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date" xml:space="preserve">
+        <source>Date</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disgust" xml:space="preserve">
+        <source>Disgust</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Entry" xml:space="preserve">
+        <source>Entry</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fear" xml:space="preserve">
+        <source>Fear</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I admired" xml:space="preserve">
+        <source>I admired</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I was angry" xml:space="preserve">
+        <source>I was angry</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I was disgusted" xml:space="preserve">
+        <source>I was disgusted</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I was excited" xml:space="preserve">
+        <source>I was excited</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I was happy" xml:space="preserve">
+        <source>I was happy</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I was sad" xml:space="preserve">
+        <source>I was sad</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I was scared" xml:space="preserve">
+        <source>I was scared</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I was surprised" xml:space="preserve">
+        <source>I was surprised</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Joy" xml:space="preserve">
+        <source>Joy</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mandala" xml:space="preserve">
+        <source>Mandala</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mood" xml:space="preserve">
+        <source>Mood</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Entry" xml:space="preserve">
+        <source>New Entry</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Nothing Selected" xml:space="preserve">
+        <source>Nothing Selected</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sadness" xml:space="preserve">
+        <source>Sadness</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Summary" xml:space="preserve">
+        <source>Summary</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Surprise" xml:space="preserve">
+        <source>Surprise</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Trust" xml:space="preserve">
+        <source>Trust</source>
+        <note/>
+      </trans-unit>
+      <trans-unit id="on %@" xml:space="preserve">
+        <source>on %@</source>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Mandala/Mandala-InfoPlist.xcstrings" source-language="en" target-language="es" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5229m"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Mandala</source>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

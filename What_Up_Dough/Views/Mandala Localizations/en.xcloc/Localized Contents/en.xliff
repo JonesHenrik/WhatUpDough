@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
+  <file original="Mandala/Localizable.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5229m"/>
+    </header>
+    <body>
+      <trans-unit id="Additional Details" xml:space="preserve">
+        <source>Additional Details</source>
+        <target state="new">Additional Details</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Anger" xml:space="preserve">
+        <source>Anger</source>
+        <target state="new">Anger</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Anticipation" xml:space="preserve">
+        <source>Anticipation</source>
+        <target state="new">Anticipation</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Date" xml:space="preserve">
+        <source>Date</source>
+        <target state="new">Date</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Disgust" xml:space="preserve">
+        <source>Disgust</source>
+        <target state="new">Disgust</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Entry" xml:space="preserve">
+        <source>Entry</source>
+        <target state="new">Entry</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Fear" xml:space="preserve">
+        <source>Fear</source>
+        <target state="new">Fear</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I admired" xml:space="preserve">
+        <source>I admired</source>
+        <target state="new">I admired</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I was angry" xml:space="preserve">
+        <source>I was angry</source>
+        <target state="new">I was angry</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I was disgusted" xml:space="preserve">
+        <source>I was disgusted</source>
+        <target state="new">I was disgusted</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I was excited" xml:space="preserve">
+        <source>I was excited</source>
+        <target state="new">I was excited</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I was happy" xml:space="preserve">
+        <source>I was happy</source>
+        <target state="new">I was happy</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I was sad" xml:space="preserve">
+        <source>I was sad</source>
+        <target state="new">I was sad</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I was scared" xml:space="preserve">
+        <source>I was scared</source>
+        <target state="new">I was scared</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="I was surprised" xml:space="preserve">
+        <source>I was surprised</source>
+        <target state="new">I was surprised</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Joy" xml:space="preserve">
+        <source>Joy</source>
+        <target state="new">Joy</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mandala" xml:space="preserve">
+        <source>Mandala</source>
+        <target state="new">Mandala</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Mood" xml:space="preserve">
+        <source>Mood</source>
+        <target state="new">Mood</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="New Entry" xml:space="preserve">
+        <source>New Entry</source>
+        <target state="new">New Entry</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Nothing Selected" xml:space="preserve">
+        <source>Nothing Selected</source>
+        <target state="new">Nothing Selected</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Sadness" xml:space="preserve">
+        <source>Sadness</source>
+        <target state="new">Sadness</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Summary" xml:space="preserve">
+        <source>Summary</source>
+        <target state="new">Summary</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Surprise" xml:space="preserve">
+        <source>Surprise</source>
+        <target state="new">Surprise</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="Trust" xml:space="preserve">
+        <source>Trust</source>
+        <target state="new">Trust</target>
+        <note/>
+      </trans-unit>
+      <trans-unit id="on %@" xml:space="preserve">
+        <source>on %@</source>
+        <target state="new">on %@</target>
+        <note/>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="Mandala/Mandala-InfoPlist.xcstrings" source-language="en" target-language="en" datatype="plaintext">
+    <header>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.0" build-num="15A5229m"/>
+    </header>
+    <body>
+      <trans-unit id="CFBundleName" xml:space="preserve">
+        <source>Mandala</source>
+        <target state="new">Mandala</target>
+        <note>Bundle name</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

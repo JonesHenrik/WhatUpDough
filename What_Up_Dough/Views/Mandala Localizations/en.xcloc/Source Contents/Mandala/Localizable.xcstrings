@@ -1,0 +1,81 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "Additional Details" : {
+
+    },
+    "Anger" : {
+
+    },
+    "Anticipation" : {
+
+    },
+    "Date" : {
+
+    },
+    "Disgust" : {
+
+    },
+    "Entry" : {
+
+    },
+    "Fear" : {
+
+    },
+    "I admired" : {
+
+    },
+    "I was angry" : {
+
+    },
+    "I was disgusted" : {
+
+    },
+    "I was excited" : {
+
+    },
+    "I was happy" : {
+
+    },
+    "I was sad" : {
+
+    },
+    "I was scared" : {
+
+    },
+    "I was surprised" : {
+
+    },
+    "Joy" : {
+
+    },
+    "Mandala" : {
+
+    },
+    "Mood" : {
+
+    },
+    "New Entry" : {
+
+    },
+    "Nothing Selected" : {
+
+    },
+    "on %@" : {
+
+    },
+    "Sadness" : {
+
+    },
+    "Summary" : {
+
+    },
+    "Surprise" : {
+
+    },
+    "Trust" : {
+
+    }
+  },
+  "version" : "1.0"
+}
